@@ -20,4 +20,4 @@ Es un proyecto adaptable a cualquier otra entidad.
 4. Después, debemos crear nuestro **DB**, y en el **.env**, poner el nombre del mismo, contraseña y si queremos cambiar algo más.
 5. Después de ese paso, debemos lanzar el comando **php artisan migrate**, para ejecutar nuestras migraciones.
 6. Por último, debemos tener en cuenta que en este caso, necesitamos la carpeta **node modules**, que no se ha conectado a github por su tamaño.
-   Para ello, simplemente lanzamos el comando **npm install*, dentro del proyecto.
+   Para ello, simplemente lanzamos el comando **npm install**, dentro del proyecto.
